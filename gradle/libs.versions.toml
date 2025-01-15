@@ -1,0 +1,5 @@
+[versions]
+jackson = "2.15.2"
+
+[libraries]
+jackson-databind = { group = "com.fasterxml.jackson.core", name = "jackson-databind", version.ref = "jackson" }
