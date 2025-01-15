@@ -1,4 +1,4 @@
-package com.vpaclov
+package com.vpavlov
 
 import com.fasterxml.jackson.core.JsonParseException
 import com.fasterxml.jackson.databind.ObjectMapper
