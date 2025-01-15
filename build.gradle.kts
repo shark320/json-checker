@@ -23,7 +23,7 @@ kotlin {
 }
 
 application {
-    mainClass.set("com.vpavlov.MainKt")
+    mainClass.set("com.vpavlov.json_checker.MainKt")
 }
 
 tasks.jar {
